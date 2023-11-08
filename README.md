@@ -1,4 +1,4 @@
-<h1>:blue_car: <a href="https://portfolio2-0-lime.vercel.app/">Portfólio 2.0 - Matheus Vieira</a></h1>
+<h1>:blue_car: <a href="https://portfolio2-0-lime.vercel.app/">Portfólio - Bruno Medrado</a></h1>
 
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/TypeScript-brightgreen"/>
