@@ -9,7 +9,7 @@
 <img src ="printDoProjeto" />
 
 <h2>:bookmark_tabs: Descrição</h2>
-<p>Portfólio criado com o objetivo de apresentar meus trabalhos e habilidades para visitantes que estejam interessados em conhecer mais sobre mim como desenvolvedor. Com o uso de tecnologias modernas e atuais, o projeto é uma representação clara da minha experiência e habilidades técnicas.</p>
+<p>Este portfólio foi concebido para oferecer uma visão abrangente dos meus trabalhos e habilidades como desenvolvedor a visitantes interessados em conhecer mais sobre minha trajetória. Utilizando tecnologias contemporâneas e atuais, este projeto representa de forma clara minha experiência e habilidades técnicas.</p>
 
 <h2>:grinning: Como utilizar</h2>
 
