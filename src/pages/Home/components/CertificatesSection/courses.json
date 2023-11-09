@@ -1,0 +1,116 @@
+{
+    "courses": [
+        {
+            "courseName": "Next.js & React - Complete guide",
+            "institution": "Udemy",
+            "duration": "25 horas",
+            "instructor": "Maximilian Schwarzmüller",
+            "certificate": "https://www.udemy.com/certificate/UC-13478654-e7e9-43af-8b1b-1e46750a1ecd/",
+            "conclusion": "2023"
+        },
+        {
+            "courseName": "MongoDB do básico",
+            "institution": "Udemy",
+            "duration": "19 horas",
+            "instructor": "Matheus Battisti",
+            "certificate": "https://www.udemy.com/certificate/UC-b89a0b21-c626-470b-8448-aa2e3de7551c/",
+            "conclusion": "2023"
+        },
+        {
+            "courseName": "NestJS do Zero com typeORM",
+            "institution": "Udemy",
+            "duration": "16 horas",
+            "instructor": "Jorge Aluizio",
+            "certificate": "https://www.udemy.com/certificate/UC-6dd9c294-a39e-4f70-91b5-be36e47943cf/",
+            "conclusion": "2023"
+        },
+        {
+            "courseName": "NodeJS - The Complete guide",
+            "institution": "Udemy",
+            "duration": "40 horas",
+            "instructor": "Maximilian Schwarzmüller",
+            "certificate": "https://www.udemy.com/certificate/UC-a59442e6-733d-4ba8-b0e4-a42914b8e060/",
+            "conclusion": "2023"
+        },
+        {
+            "courseName": "Docker para Desenvolvedores",
+            "institution": "Udemy",
+            "duration": "12 horas",
+            "instructor": "Matheus Battisti",
+            "certificate": "https://www.udemy.com/certificate/UC-ed57e3dd-005b-49df-b04b-11831ee8a0e5/",
+            "conclusion": "2023"
+        },
+        {
+            "courseName": "Node.js do Zero a Maestria",
+            "institution": "Udemy",
+            "duration": "38 horas",
+            "instructor": "Matheus Battisti",
+            "certificate": "https://www.udemy.com/certificate/UC-ad929d40-b221-4d22-a531-7bf32d8359b5/",
+            "conclusion": "2023"
+        },
+        {
+            "courseName": "JavaScript Completo ES6",
+            "institution": "Origamid",
+            "duration": "74 horas",
+            "instructor": "André Rafael",
+            "certificate": "https://www.origamid.com/certificate/fb65f564",
+            "conclusion": "2022"
+        },
+        {
+            "courseName": "Understanding TypeScript",
+            "institution": "Udemy",
+            "duration": "15 horas",
+            "instructor": "Maximilian Schwarzmüller",
+            "certificate": "https://www.udemy.com/certificate/UC-550ce2fa-9324-4a29-bc46-c36cf7264301/",
+            "conclusion": "2022"
+        },
+        {
+            "courseName": "Redux com react - Origamid",
+            "institution": "Origamid",
+            "duration": "16 horas",
+            "instructor": "André Rafael",
+            "certificate": "https://www.origamid.com/certificate/8ea8d936",
+            "conclusion": "2022"
+        },
+        {
+            "courseName": "React completo - Origamid",
+            "institution": "Origamid",
+            "duration": "36 horas",
+            "instructor": "André Rafael",
+            "certificate": "https://www.origamid.com/certificate/bcea3d19",
+            "conclusion": "2022"
+        },
+        {
+            "courseName": "React - The Complete Guide",
+            "institution": "Udemy",
+            "duration": "48 horas",
+            "instructor": "Maximilian Schwarzmüller",
+            "certificate": "https://www.udemy.com/certificate/UC-1a327c69-16ef-45c6-80ee-94c8c5b8965a/",
+            "conclusion": "2022"
+        },
+        {
+            "courseName": "SQL do básico ao avançado",
+            "institution": "Udemy",
+            "duration": "17 horas",
+            "instructor": "Matheus Battisti",
+            "certificate": "https://www.udemy.com/certificate/UC-e049f9d2-32ef-42f6-a0d9-d300df7425a0/",
+            "conclusion": "2022"
+        },
+        {
+            "courseName": "Git e GitHub do básico",
+            "institution": "Udemy",
+            "duration": "8 horas",
+            "instructor": "Matheus Battisti",
+            "certificate": "https://www.udemy.com/certificate/UC-65b88cb2-e653-400f-9a51-c7abeb3162d0/",
+            "conclusion": "2021"
+        },
+        {
+            "courseName": "Introdução ao Git e ao GitHub",
+            "institution": "DIO",
+            "duration": "5 horas",
+            "instructor": "Otávio Reis",
+            "certificate": "https://www.dio.me/certificate/5B969BE8/share",
+            "conclusion": "2021"
+        }
+    ]
+}
