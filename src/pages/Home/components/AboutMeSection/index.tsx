@@ -14,7 +14,7 @@ const AboutMeSection = ({ isMobile }: AboutMeContract) => {
                 <S.AboutMeContainer>
                     <div>
                         <p>
-                            Meu nome é Matheus Vieira e eu sou um apaixonado por
+                            Meu nome é Bruno Medrado e eu sou um apaixonado por
                             tecnologia que decidiu trilhar o caminho da
                             programação. Trabalhei com projetos envolvendo
                             gestão educacional, API's e banco de dados.
