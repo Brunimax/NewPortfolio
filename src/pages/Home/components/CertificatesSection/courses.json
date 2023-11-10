@@ -1,115 +1,83 @@
 {
     "courses": [
         {
-            "courseName": "Next.js & React - Complete guide",
+            "courseName": "Desenvolvimento Web Avançado com PHP, Laravel e Vue.JS",
             "institution": "Udemy",
-            "duration": "25 horas",
-            "instructor": "Maximilian Schwarzmüller",
-            "certificate": "https://www.udemy.com/certificate/UC-13478654-e7e9-43af-8b1b-1e46750a1ecd/",
+            "duration": "56.5 horas",
+            "instructor": "Jorge Sant Ana",
+            "certificate": "https://www.udemy.com/certificate/UC-7d4cb6e4-86b9-4268-81be-3f29da84e781/",
             "conclusion": "2023"
         },
         {
-            "courseName": "MongoDB do básico",
+            "courseName": "Criação de Apps Android/iOS/Web com Flutter",
             "institution": "Udemy",
-            "duration": "19 horas",
-            "instructor": "Matheus Battisti",
-            "certificate": "https://www.udemy.com/certificate/UC-b89a0b21-c626-470b-8448-aa2e3de7551c/",
-            "conclusion": "2023"
-        },
-        {
-            "courseName": "NestJS do Zero com typeORM",
-            "institution": "Udemy",
-            "duration": "16 horas",
-            "instructor": "Jorge Aluizio",
-            "certificate": "https://www.udemy.com/certificate/UC-6dd9c294-a39e-4f70-91b5-be36e47943cf/",
-            "conclusion": "2023"
-        },
-        {
-            "courseName": "NodeJS - The Complete guide",
-            "institution": "Udemy",
-            "duration": "40 horas",
-            "instructor": "Maximilian Schwarzmüller",
-            "certificate": "https://www.udemy.com/certificate/UC-a59442e6-733d-4ba8-b0e4-a42914b8e060/",
-            "conclusion": "2023"
-        },
-        {
-            "courseName": "Docker para Desenvolvedores",
-            "institution": "Udemy",
-            "duration": "12 horas",
-            "instructor": "Matheus Battisti",
-            "certificate": "https://www.udemy.com/certificate/UC-ed57e3dd-005b-49df-b04b-11831ee8a0e5/",
-            "conclusion": "2023"
-        },
-        {
-            "courseName": "Node.js do Zero a Maestria",
-            "institution": "Udemy",
-            "duration": "38 horas",
-            "instructor": "Matheus Battisti",
-            "certificate": "https://www.udemy.com/certificate/UC-ad929d40-b221-4d22-a531-7bf32d8359b5/",
-            "conclusion": "2023"
-        },
-        {
-            "courseName": "JavaScript Completo ES6",
-            "institution": "Origamid",
-            "duration": "74 horas",
-            "instructor": "André Rafael",
-            "certificate": "https://www.origamid.com/certificate/fb65f564",
-            "conclusion": "2022"
-        },
-        {
-            "courseName": "Understanding TypeScript",
-            "institution": "Udemy",
-            "duration": "15 horas",
-            "instructor": "Maximilian Schwarzmüller",
-            "certificate": "https://www.udemy.com/certificate/UC-550ce2fa-9324-4a29-bc46-c36cf7264301/",
-            "conclusion": "2022"
-        },
-        {
-            "courseName": "Redux com react - Origamid",
-            "institution": "Origamid",
-            "duration": "16 horas",
-            "instructor": "André Rafael",
-            "certificate": "https://www.origamid.com/certificate/8ea8d936",
-            "conclusion": "2022"
-        },
-        {
-            "courseName": "React completo - Origamid",
-            "institution": "Origamid",
-            "duration": "36 horas",
-            "instructor": "André Rafael",
-            "certificate": "https://www.origamid.com/certificate/bcea3d19",
-            "conclusion": "2022"
-        },
-        {
-            "courseName": "React - The Complete Guide",
-            "institution": "Udemy",
-            "duration": "48 horas",
-            "instructor": "Maximilian Schwarzmüller",
-            "certificate": "https://www.udemy.com/certificate/UC-1a327c69-16ef-45c6-80ee-94c8c5b8965a/",
-            "conclusion": "2022"
-        },
-        {
-            "courseName": "SQL do básico ao avançado",
-            "institution": "Udemy",
-            "duration": "17 horas",
-            "instructor": "Matheus Battisti",
-            "certificate": "https://www.udemy.com/certificate/UC-e049f9d2-32ef-42f6-a0d9-d300df7425a0/",
-            "conclusion": "2022"
-        },
-        {
-            "courseName": "Git e GitHub do básico",
-            "institution": "Udemy",
-            "duration": "8 horas",
-            "instructor": "Matheus Battisti",
-            "certificate": "https://www.udemy.com/certificate/UC-65b88cb2-e653-400f-9a51-c7abeb3162d0/",
+            "duration": "63.5 horas",
+            "instructor": "Daniel Ciolfi e Ewerton Dutra",
+            "certificate": "https://www.udemy.com/certificate/UC-d46bcaef-c33e-4077-bece-06629f7d9af5/",
             "conclusion": "2021"
         },
         {
-            "courseName": "Introdução ao Git e ao GitHub",
-            "institution": "DIO",
-            "duration": "5 horas",
-            "instructor": "Otávio Reis",
-            "certificate": "https://www.dio.me/certificate/5B969BE8/share",
+            "courseName": "Curso Web Moderno Completo com JavaScript + Projetos",
+            "institution": "Udemy",
+            "duration": "97 horas",
+            "instructor": "Leonardo Moura Leitão",
+            "certificate": "https://www.udemy.com/certificate/UC-2bb784c1-e61a-437b-9504-839eac1a37e1/",
+            "conclusion": "2021"
+        },
+        {
+            "courseName": "Design Gráfico e UI/UX Design ULTIMATE - 9 Cursose",
+            "institution": "Udemy",
+            "duration": "34 horas",
+            "instructor": "Andre Fontenelle",
+            "certificate": "https://www.udemy.com/certificate/UC-6b48a85d-c6fe-4842-bbdd-925d83509af3/",
+            "conclusion": "2021"
+        },
+        {
+            "courseName": "Hacker Ético Profissional com Kali Linux v2023",
+            "institution": "Udemy",
+            "duration": "32 horas",
+            "instructor": "Vitor Mazuco",
+            "certificate": "https://www.udemy.com/certificate/UC-fb0afae4-667b-498c-b9b1-ea67bb8f74cc/",
+            "conclusion": "2021"
+        },
+        {
+            "courseName": "Hacking e Scanning de Redes com Nmap do básico ao Avançado",
+            "institution": "Udemy",
+            "duration": "4 horas",
+            "instructor": "Clécius Wilton",
+            "certificate": "https://www.udemy.com/certificate/UC-7cc851f1-43fd-4de9-87c3-79681317ae0b/",
+            "conclusion": "2021"
+        },
+        {
+            "courseName": "Web Hacking: Teste de Invasão em Sites e Aplicações Web",
+            "institution": "Udemy",
+            "duration": "74 horas",
+            "instructor": "Clécius Wilton",
+            "certificate": "https://www.udemy.com/certificate/UC-8e3515de-7545-416f-88ed-0ac85fa61369/",
+            "conclusion": "2021"
+        },
+        {
+            "courseName": "Desenvolvimento Android Completo 2021 - Crie 18 Apps",
+            "institution": "Udemy",
+            "duration": "107.5 horas",
+            "instructor": "Jamilton Damasceno",
+            "certificate": "https://www.udemy.com/certificate/UC-4d61fe2e-f6f0-4dc1-b10e-e062ad5ae9c0/",
+            "conclusion": "2021"
+        },
+        {
+            "courseName": "Pixel Art para games de forma descomplicada",
+            "institution": "Udemy",
+            "duration": "22 horas",
+            "instructor": "Wiliam Nascimento",
+            "certificate": "https://www.udemy.com/certificate/UC-8e4b6824-9a15-40a8-89ee-386dfa3b8271/",
+            "conclusion": "2021"
+        },
+        {
+            "courseName": "Personagens para jogos 2d: Do zero até animação",
+            "institution": "Udemy",
+            "duration": "3.5 horas",
+            "instructor": "Renato Ikeuchi",
+            "certificate": "https://www.udemy.com/certificate/UC-b75a2576-d822-43f8-a0d0-a37b71128265/",
             "conclusion": "2021"
         }
     ]
