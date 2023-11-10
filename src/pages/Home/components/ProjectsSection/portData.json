@@ -1,49 +1,40 @@
 {
     "projects": [
         {
-            "projectType": "Front-end",
-            "projectName": "Portfólio 2.0",
-            "projectRepo": "https://github.com/Math-Vieira/Portfolio2.0",
-            "projectUrl": "https://portfolio2-0-lime.vercel.app/",
-            "status": "Em andamento",
-            "projectImage": "https://cdn.discordapp.com/attachments/957316110653464596/1088876982177108070/port.png",
-            "projectDescription": "Projeto criado para apresentar meus trabalhos e habilidades aos visitantes interessados em conhecer mais sobre mim."
-        },
-        {
-            "projectType": "Front-end",
-            "projectName": "Deezer app",
-            "projectRepo": "https://github.com/Math-Vieira/deezer-app",
-            "projectUrl": "https://deezer-app-mv.vercel.app/",
-            "status": "Concluído",
-            "projectImage": "https://cdn.discordapp.com/attachments/957316110653464596/1089385418199416913/image.png",
-            "projectDescription": "Este projeto é uma aplicação web desenvolvida com React que permite pesquisar músicas e visualizar as mais populares utilizando a API do Deezer."
-        },
-        {
-            "projectType": "Back-end",
-            "projectName": "Deezer api consumer",
-            "projectRepo": "https://github.com/Math-Vieira/deezer-api-consumer",
+            "projectType": "Full-Stack",
+            "projectName": "Surgency",
+            "projectRepo": "",
             "projectUrl": "",
             "status": "Concluído",
-            "projectImage": "https://cdn.discordapp.com/attachments/957316110653464596/1089386491467288656/image.png",
-            "projectDescription": "Este projeto é uma API que utiliza a API do Deezer para oferecer funcionalidades de busca e chart (músicas mais atuais) aos usuários. "
+            "projectImage": "https://i.postimg.cc/pXjvSB2S/Captura-de-tela-de-2023-11-08-10-39-34.png",
+            "projectDescription": "Uma aplicação abrangente de gerenciamento hospitalar com três principais funcionalidades: recepção, classificação de risco e avaliação médica. Esta solução inovadora permite a gestão completa do atendimento ao paciente, desde a chegada até a cobertura de todos os setores do hospital, garantindo eficiência e coordenação integrada."
+        },
+        {
+            "projectType": "Full-Stack",
+            "projectName": "Eva",
+            "projectRepo": "",
+            "projectUrl": "",
+            "status": "Concluído",
+            "projectImage": "https://i.postimg.cc/zf5c0CBT/Captura-de-tela-de-2023-11-08-10-35-24.png",
+            "projectDescription": "Aplicação web inovadora utilizando React.js e Java. Este projeto foi concebido como um visualizador de DICOM, oferecendo aos hospitais a capacidade de requisitar e laudar exames de pacientes de maneira eficiente e integrada."
+        },
+        {
+            "projectType": "Full-Stack",
+            "projectName": "SGL",
+            "projectRepo": "",
+            "projectUrl": "",
+            "status": "Concluído",
+            "projectImage": "https://i.postimg.cc/SxVFwSPX/Captura-de-tela-de-2023-11-08-10-55-57.png",
+            "projectDescription": "Sistema de gerenciamento de leitos, integrado ao Surgency. Após a avaliação médica, caso o paciente necessite de internação, todas as suas ações são eficientemente gerenciadas pelo sistema, proporcionando uma gestão simplificada e eficaz dos leitos."
         }, 
         {
-            "projectType": "Back-end",
-            "projectName": "Clean arch API",
-            "projectRepo": "https://github.com/Math-Vieira/api-clean-arch",
+            "projectType": "Full-Stack",
+            "projectName": "CPPS",
+            "projectRepo": "",
             "projectUrl": "",
-            "status": "Em andamento",
-            "projectImage": "https://cdn.discordapp.com/attachments/957316110653464596/1089386902878171136/0iU9Ks05_GTtGh6zV.png",
-            "projectDescription": "API construída utilizando conceitos de arquitetura limpa, SOLID e design patterns. NodeJS e TypeScript estão sendo utilizados na sua construção."
-        },
-        {
-            "projectType": "Front-end",
-            "projectName": "Countries",
-            "projectRepo": "https://github.com/Math-Vieira/countries",
-            "projectUrl": "https://countries-math-vieira.vercel.app/",
             "status": "Concluído",
-            "projectImage": "https://camo.githubusercontent.com/9673641b7e5ed4990896047df0cbd898659a17bd2791ab34da1176b6981dd509/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3938323438353931363532343335353633342f313031373132383831313633383330343931302f756e6b6e6f776e2e706e67",
-            "projectDescription": "Aplicação desenvolvida em React que lista todos os países do mundo com várias informações a respeito de cada um. É um desafio do site Frontend Mentor."
+            "projectImage": "https://i.postimg.cc/CLxx52Vf/Captura-de-tela-de-2023-11-08-10-49-26.png",
+            "projectDescription": "Uma aplicação web dedicada a convocações e editais. Os usuários podem realizar inscrições, visualizar os resultados, enquanto a equipe de gestão tem a facilidade de avaliar participantes, verificar documentações e cadastrar novos editais, proporcionando uma experiência completa e eficiente."
         }
     ]
 }
