@@ -7,15 +7,14 @@
             "projectUrl": "",
             "status": "Concluído",
             "projectImage": "https://i.postimg.cc/pXjvSB2S/Captura-de-tela-de-2023-11-08-10-39-34.png",
-            "projectDescription": "Uma aplicação abrangente de gerenciamento hospitalar com três principais funcionalidades: recepção, classificação de risco e avaliação médica. Esta solução inovadora permite a gestão completa do atendimento ao paciente, desde a chegada até a cobertura de todos os setores do hospital, garantindo eficiência e coordenação integrada."
-        },
+            "projectDescription": ""},
         {
             "projectType": "Full-Stack",
             "projectName": "Eva",
             "projectRepo": "",
             "projectUrl": "",
             "status": "Concluído",
-            "projectImage": "https://i.postimg.cc/zf5c0CBT/Captura-de-tela-de-2023-11-08-10-35-24.png",
+            "projectImage": "https://postimg.cc/N9rpSf9j",
             "projectDescription": "Aplicação web inovadora utilizando React.js e Java. Este projeto foi concebido como um visualizador de DICOM, oferecendo aos hospitais a capacidade de requisitar e laudar exames de pacientes de maneira eficiente e integrada."
         },
         {
@@ -24,7 +23,7 @@
             "projectRepo": "",
             "projectUrl": "",
             "status": "Concluído",
-            "projectImage": "https://i.postimg.cc/SxVFwSPX/Captura-de-tela-de-2023-11-08-10-55-57.png",
+            "projectImage": "https://ibb.co/y6xHLmw",
             "projectDescription": "Sistema de gerenciamento de leitos, integrado ao Surgency. Após a avaliação médica, caso o paciente necessite de internação, todas as suas ações são eficientemente gerenciadas pelo sistema, proporcionando uma gestão simplificada e eficaz dos leitos."
         }, 
         {
